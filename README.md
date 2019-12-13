@@ -1,2 +1,4 @@
 # ahmedgurbuz.github.io
-Personal Web Page
+Personal web page 
+
+![Personal Web Page of Ahmed Gurbuz](images/web.JPG)
